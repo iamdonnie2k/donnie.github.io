@@ -1,59 +1,7 @@
 # donnie.github.io
 
-<style>
-  [data-custom-class='body'], [data-custom-class='body'] * {
-          background: transparent !important;
-        }
-[data-custom-class='title'], [data-custom-class='title'] * {
-          font-family: Arial !important;
-font-size: 26px !important;
-color: #000000 !important;
-        }
-[data-custom-class='subtitle'], [data-custom-class='subtitle'] * {
-          font-family: Arial !important;
-color: #595959 !important;
-font-size: 14px !important;
-        }
-[data-custom-class='heading_1'], [data-custom-class='heading_1'] * {
-          font-family: Arial !important;
-font-size: 19px !important;
-color: #000000 !important;
-        }
-[data-custom-class='heading_2'], [data-custom-class='heading_2'] * {
-          font-family: Arial !important;
-font-size: 17px !important;
-color: #000000 !important;
-        }
-[data-custom-class='body_text'], [data-custom-class='body_text'] * {
-          color: #595959 !important;
-font-size: 14px !important;
-font-family: Arial !important;
-        }
-[data-custom-class='link'], [data-custom-class='link'] * {
-          color: #3030F1 !important;
-font-size: 14px !important;
-font-family: Arial !important;
-word-break: break-word !important;
-        }
-</style>
-Calibri;color:#595959;mso-themecolor:text1;mso-themetint:166;">We are <bdt class="question noTranslate" data-id="9d459c4e-c548-e5cb-7729-a118548965d2">Why Music</bdt><bdt class="block-component"></bdt> (<bdt class="block-component"></bdt>"<strong>Company</strong>," "<strong>we</strong>," "<strong>us</strong>," "<strong>our</strong>"<bdt class="statement-end-if-in-editor"></bdt>)<span style="font-size:11.0pt;line-height:115%;
-Arial;mso-fareast-font-family:Calibri;color:#595959;mso-themecolor:text1;
-mso-themetint:166;"><span style="font-size:11.0pt;line-height:115%;
-Arial;mso-fareast-font-family:Calibri;color:#595959;mso-themecolor:text1;
-mso-themetint:166;"><span style="font-size:11.0pt;line-height:115%;
-Arial;mso-fareast-font-family:Calibri;color:#595959;mso-themecolor:text1;
-mso-themetint:166;"><bdt class="question"><bdt class="block-component"></bdt></bdt><span style="font-size:11.0pt;line-height:115%;
-Arial;mso-fareast-font-family:Calibri;color:#595959;mso-themecolor:text1;
-mso-themetint:166;"><bdt class="block-component"></bdt></span>, a company registered in<bdt class="block-component"></bdt><bdt class="block-component"></bdt><bdt class="block-component">&nbsp;</bdt><span style="font-size:11.0pt;line-height:115%;
-Arial;mso-fareast-font-family:Calibri;color:#595959;mso-themecolor:text1;
-mso-themetint:166;"><span style="font-size:11.0pt;line-height:115%;
-Arial;mso-fareast-font-family:Calibri;color:#595959;mso-themecolor:text1;
-mso-themetint:166;"><bdt class="question noTranslate">Maryland</bdt>, <bdt class="question noTranslate">United States</bdt></span></span><bdt class="statement-end-if-in-editor"></bdt><bdt class="block-component"></bdt></span></span></bdt>&nbsp;</span></span>at <bdt class="question noTranslate">310 cedarleaf ave</bdt><bdt class="block-component"></bdt></span></span>, <bdt class="question noTranslate">Capital Heights</bdt></span></span><span style="font-size: 15px;"><span data-custom-class="body_text"><span style="font-size: 15px;"><span data-custom-class="body_text"><span style="color: rgb(89, 89, 89);"><bdt class="block-component"></bdt><bdt class="block-component"></bdt>, <bdt class="question noTranslate">MD</bdt><bdt class="statement-end-if-in-editor"></bdt><bdt class="block-component"></bdt><bdt class="block-component"></bdt> <bdt class="question noTranslate">20743</bdt><bdt class="statement-end-if-in-editor"></bdt></span></span></span></span></span><span style="font-size:11.0pt;line-height:115%;
-Arial;mso-fareast-font-family:Calibri;color:#595959;mso-themecolor:text1;
-mso-themetint:166;"><span style="font-size:11.0pt;line-height:115%;
-Arial;mso-fareast-font-family:Calibri;color:#595959;mso-themecolor:text1;
-mso-themetint:166;"><bdt class="else-block"></bdt></bdt></span></bdt></span><bdt class="statement-end-if-in-editor">.</bdt></span><bdt class="block-component"></bdt></span></span></span></span></span></span></div></div><div align="center" style="line-height: 1;"><br></div><div align="center" style="text-align: left;"><div class="MsoNormal" data-custom-class="body_text" style="line-height: 1.5;"><span style="font-size:11.0pt;line-height:115%;font-family:Arial;
-Calibri;color:#595959;mso-themecolor:text1;mso-themetint:166;">We operate <bdt class="block-component"></bdt>the website <span style="color: rgb(0, 58, 250);"><bdt class="question noTranslate"><a target="_blank" data-custom-class="link" href="https://github.com/iamdonnie2k/donnie.github.io">https://github.com/iamdonnie2k/donnie.github.io</a></bdt></span> (the <bdt class="block-component"></bdt>"<strong>Site</strong>"<bdt class="statement-end-if-in-editor"></bdt>)<bdt class="block-component"></bdt><bdt class="block-component"></bdt>, as well as any other related products and services that refer or link to these legal terms (the <bdt class="block-component"></bdt>"<strong>Legal Terms</strong>"<bdt class="statement-end-if-in-editor"></bdt>) (collectively, the <bdt class="block-component"></bdt>"<strong>Services</strong>"<bdt class="statement-end-if-in-editor"></bdt>).<bdt class="block-component"></bdt></span></div><div class="MsoNormal" style="line-height: 1;"><br></div><div class="MsoNormal" data-custom-class="body_text" style="line-height: 1.5;"><bdt class="question">Why Music is an app im making because im tired of paying for apple music's bad desktop app and not having spotify plus.</bdt></div><div class="MsoNormal" data-custom-class="body_text" style="line-height: 1.5;"><span style="font-size:11.0pt;line-height:115%;font-family:Arial;
+
+We operate <bdt class="block-component"></bdt>the website <span style="color: rgb(0, 58, 250);"><bdt class="question noTranslate"><a target="_blank" data-custom-class="link" href="https://github.com/iamdonnie2k/donnie.github.io">https://github.com/iamdonnie2k/donnie.github.io</a></bdt></span> (the <bdt class="block-component"></bdt>"<strong>Site</strong>"<bdt class="statement-end-if-in-editor"></bdt>)<bdt class="block-component"></bdt><bdt class="block-component"></bdt>, as well as any other related products and services that refer or link to these legal terms (the <bdt class="block-component"></bdt>"<strong>Legal Terms</strong>"<bdt class="statement-end-if-in-editor"></bdt>) (collectively, the <bdt class="block-component"></bdt>"<strong>Services</strong>"<bdt class="statement-end-if-in-editor"></bdt>).<bdt class="block-component"></bdt></span></div><div class="MsoNormal" style="line-height: 1;"><br></div><div class="MsoNormal" data-custom-class="body_text" style="line-height: 1.5;"><bdt class="question">Why Music is an app im making because im tired of paying for apple music's bad desktop app and not having spotify plus.</bdt></div><div class="MsoNormal" data-custom-class="body_text" style="line-height: 1.5;"><span style="font-size:11.0pt;line-height:115%;font-family:Arial;
 Calibri;color:#595959;mso-themecolor:text1;mso-themetint:166;"><bdt class="statement-end-if-in-editor"></bdt></span></div><div class="MsoNormal" style="line-height: 1;"><br></div><div class="MsoNormal" data-custom-class="body_text" style="line-height: 1.5;"><span style="font-size:11.0pt;line-height:115%;font-family:Arial;
 Calibri;color:#595959;mso-themecolor:text1;mso-themetint:166;">You can contact us by <bdt class="block-component"></bdt>phone at <bdt class="question">2025070992</bdt>, email at <bdt class="question noTranslate"><a target="_blank" data-custom-class="link" href="mailto:notdonnie2k@gmail.com">notdonnie2k@gmail.com</a></bdt><bdt class="block-component"></bdt>,<bdt class="statement-end-if-in-editor"></bdt> or by mail to <bdt class="question noTranslate">310 cedarleaf ave</bdt><bdt class="block-component"></bdt>, <bdt class="question noTranslate">Capital Heights</bdt><bdt class="block-component"></bdt><bdt class="block-component"></bdt>, <bdt class="question noTranslate">MD</bdt><bdt class="statement-end-if-in-editor"></bdt><bdt class="block-component"></bdt><bdt class="block-component"></bdt> <bdt class="question noTranslate">20743</bdt><bdt class="statement-end-if-in-editor"></bdt><bdt class="block-component"></bdt><bdt class="block-component">,&nbsp;</bdt><bdt class="question noTranslate">United States</bdt><bdt class="statement-end-if-in-editor"></bdt><bdt class="block-component"></bdt>.</span></div><div class="MsoNormal" style="line-height: 1;"><br></div><div class="MsoNormal" data-custom-class="body_text" style="line-height: 1.5;"><span style="font-size:11.0pt;line-height:115%;font-family:Arial;
 Calibri;color:#595959;mso-themecolor:text1;mso-themetint:166;">These Legal Terms constitute a legally binding agreement made between you, whether personally or on behalf of an entity (<bdt class="block-component"></bdt>"<strong>you</strong>"<bdt class="statement-end-if-in-editor"></bdt>), and <bdt class="question noTranslate">Why Music</bdt>, concerning your access to and use of the Services. You agree that by accessing the Services, you have read, understood, and agreed to be bound by all of these Legal Terms. IF YOU DO NOT AGREE WITH ALL OF THESE LEGAL TERMS, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE SERVICES AND YOU MUST DISCONTINUE USE IMMEDIATELY.<bdt class="block-component"></bdt><bdt class="block-component"></bdt></span></div><div class="MsoNormal" style="line-height: 1;"><br></div><div class="MsoNormal" data-custom-class="body_text" style="line-height: 1.5;"><span style="font-size:11.0pt;line-height:115%;font-family:Arial;
